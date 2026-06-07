@@ -278,3 +278,4 @@ class _PantallaColumnRowState extends State<PantallaColumnRow> {
     );
   }
 }
+//si funciona wiiiiiii
